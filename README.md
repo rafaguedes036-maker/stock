@@ -1,4 +1,4 @@
-# TÍTULO
+# SISTEMA DE ESTOQUE
 ## SUB-TÍTULO
 ### Texto Expandido
 > Citação
